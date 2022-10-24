@@ -1,4 +1,4 @@
-; string revert - 24/10/22
+; x86-64 string revert - 24/10/22
 ; make reverse
 SECTION .data         
   str:  db "Hello World",10 ; the string, 10=cr
